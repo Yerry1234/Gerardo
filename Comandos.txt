@@ -1,0 +1,14 @@
+git config --global user.name "Yerry"
+git config --global user.email "gerardo.."
+
+
+git init para inicializar el repositorio
+
+git commit
+apretamos i para escribir
+luego ESC 
+escribimos :wq
+git log para mirar los cambios
+
+
+git add -all para agregar todos los archivos de golpe
